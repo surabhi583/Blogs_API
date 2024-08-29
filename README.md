@@ -24,9 +24,6 @@ Build using the following features:
 - file scoped namespaces
 - Entity Framework Core with SQL Server db
 - serilog for file and console logging
-- logging integrated with application insights, including realtime monitoring
-- Hellang.Middleware.ProblemDetails for consistent error output
-- sonarlint for code scanning
 
 ## migrations
 
